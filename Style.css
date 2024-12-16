@@ -1,0 +1,42 @@
+.button1
+{
+    background-color:rgb(128, 237, 144);
+    color: rgb(13, 13, 106); 
+}
+.modalButton
+{
+    background-color:rgb(128, 237, 144);
+    color: rgb(13, 13, 106); 
+    
+}
+.ModalSubject
+{
+    background-color:rgb(128, 237, 144);
+    color: rgb(13, 13, 106); ;   
+}
+.carousel-inner
+{
+   height: 500px
+}
+.card
+{
+    height: 400px;
+}
+.card-text
+{
+    color: rgb(13, 13, 106); 
+}
+.card-title
+{
+    color:rgb(55, 148, 69);
+}
+.blue-block
+{
+    background-color:rgb(11, 11, 54);
+    font-style: italic;
+    color: white;
+}
+.xylem-card
+{
+    height: 500px;
+}
