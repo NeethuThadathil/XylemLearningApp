@@ -40,3 +40,17 @@
 {
     height: 500px;
 }
+.faq-Section
+{
+    /* width: 80% ; */
+    background-color:rgb(128, 237, 144);
+    height: 350px;
+}
+.foot
+{
+    background-color:rgb(128, 237, 144);
+}
+.foot p 
+{
+     text-align: center;
+}
