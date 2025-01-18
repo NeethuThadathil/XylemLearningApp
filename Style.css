@@ -35,6 +35,21 @@
     background-color:rgb(11, 11, 54);
     font-style: italic;
     color: white;
+    animation-name: example;
+   animation-duration: 3s; /* Specifies the duration of the animation */
+   animation-iteration-count: infinite; /* Makes the animation loop indefinitely */
+}
+@keyframes example {
+    from {background-color:rgb(11, 11, 54);}
+    to {background-color:rgb(128, 237, 144)}
+  }
+.why_choose
+{
+    transition: transform 0.9s ease-in-out;
+}
+.why_choose:hover
+{
+    transform: rotateY(180deg);
 }
 .xylem-card
 {
@@ -53,4 +68,20 @@
 .foot p 
 {
      text-align: center;
+}
+.main_h1
+{
+    transition: transform 0.9s ease-in-out; 
+}
+.main_h1:hover
+{
+    transform: scale(1.5);
+}
+.main_img
+{
+    transition: transform 0.7s ease-in-out; 
+}
+.main_img:hover
+{
+    transform: skewX(30deg);
 }
